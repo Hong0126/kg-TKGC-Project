@@ -1,0 +1,10 @@
+<wasBornIn>	was born in
+<diedIn>	died in
+<worksAt>	works at
+<playsFor>	plays for
+<hasWonPrize>	has won prize
+<isMarriedTo>	is married to
+<owns>	owns
+<graduatedFrom>	graduated from	
+<isAffiliatedTo>	is affiliated to
+<created>	created
