@@ -1,7 +1,13 @@
-torch>=2.2
-transformers>=4.40.0
-peft>=0.10.0          # LoRA
-accelerate>=0.27.0
-networkx>=3.2.0
-datasets
-tqdm
+torch>=2.7.1
+accelerate>=0.27
+transformers>=4.40
+peft>=0.10
+trl>=0.8
+bitsandbytes>=0.43
+numpy>=1.24
+pandas>=2.0
+networkx>=3.2
+datasets>=2.18
+tqdm>=4.65
+torch-geometric>=2.6
+dspy>=2.6
